@@ -1,0 +1,19 @@
+:root{
+    --police:10px;
+    --vert:#618264;
+}
+
+*{
+    padding:0;
+    margin:0;
+    border:0;
+}
+html{
+    font-size:var(--police);
+}
+body{
+    width:100vw;
+    height:100vh;
+    overflow-x:hidden;
+    box-sizing: border-box;
+}
